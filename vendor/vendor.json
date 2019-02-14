@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "nzZPoKyx/lv8E/J7zZxuNQ5P1Bk=",
+			"path": "github.com/jakecoffman/cron",
+			"revision": "7e2009c226a5f6fb032692106d167ab0c3720692",
+			"revisionTime": "2019-01-06T20:08:28Z"
+		}
+	],
+	"rootPath": "cron_test"
+}
